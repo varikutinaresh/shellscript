@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Run time variables
+
 PERSON1=$1
 PERSON2=$2
 
