@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Run time variables
+#Run time variables-----> no need to edit the script
 
 PERSON1=$1
 PERSON2=$2
